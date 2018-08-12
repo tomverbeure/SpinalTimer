@@ -3,7 +3,7 @@ Spinal Timer
 
 This repository is derived from the [SpinalTemplateSbt](https://github.com/SpinalHDL/SpinalTemplateSbt).
 
-It contains a simply timer.
+It contains a simple Apb bus connected timer.
 
 The code can be found in the `src/main/scala/mylib` directory.
 
