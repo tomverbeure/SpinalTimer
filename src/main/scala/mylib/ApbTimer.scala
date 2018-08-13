@@ -4,7 +4,6 @@ package mylib
 import spinal.core._
 import spinal.lib._
 import spinal.lib.bus.amba3.apb._
-import spinal.lib.misc.InterruptCtrl
 
 case class ApbTimer(width : Int) extends Component{
   val io = new Bundle{
